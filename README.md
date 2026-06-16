@@ -21,15 +21,15 @@
 
 <table>
   <tr>
-    <td align="center" style="padding-right: 20px;">
-      <img src="./blonde-run.gif" width="92" alt="pixel character" />
-    </td>
-    <td align="right">
+    <td align="left" style="padding-right: 20px;">
       ♡ делаю маленькие HTML/CSS-проекты<br>
       ♡ изучаю основы JavaScript<br>
       ♡ собираю первое приложение на React Native<br>
       ♡ пишу посты для начинающих<br>
       ♡ разбираюсь в game studies
+    </td>
+    <td align="center">
+      <img src="./blonde-run.gif" width="92" alt="pixel character" />
     </td>
   </tr>
 </table>
