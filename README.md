@@ -17,11 +17,6 @@
 
 <div align="center">
 
-<div align="center">
-
-```html
-<div align="center">
-
 ## about me
 
 <table>
@@ -125,7 +120,6 @@
 </table>
 
 </div>
-```
 
 ---
 
