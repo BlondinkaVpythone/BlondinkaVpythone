@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=Блондинка%20в%20питоне🐍&fontSize=34&fontColor=ffffff&fontAlignY=34&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa8ce&height=170&section=header&text=Блондинка%20в%20питоне🐍&fontSize=34&fontColor=ffffff&fontAlignY=34&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=2800&pause=1000&color=F28DB2&center=true&vCenter=true&width=600&lines=learning+to+code+step+by+step;building+tiny+web+projects;sharing+beginner-friendly+coding+posts;game+studies+notes;ITgirl+memes;pinkpinkpink" />
 
