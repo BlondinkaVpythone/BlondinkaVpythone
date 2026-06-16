@@ -19,17 +19,21 @@
 
 ## about me
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="left" style="padding-right: 20px;">
-      ♡ делаю маленькие HTML/CSS-проекты<br>
-      ♡ изучаю основы JavaScript<br>
-      ♡ собираю первое приложение на React Native<br>
-      ♡ пишу посты для начинающих<br>
-      ♡ разбираюсь в game studies
+    <td style="padding: 16px 24px; background: #faf0f5; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+      <div align="left" style="font-size: 15px; line-height: 1.8;">
+        ♡ делаю маленькие HTML/CSS-проекты<br>
+        ♡ изучаю основы JavaScript<br>
+        ♡ собираю первое приложение на React Native<br>
+        ♡ пишу посты для начинающих<br>
+        ♡ разбираюсь в game studies
+      </div>
     </td>
-    <td align="center">
-      <img src="./blonde-run.gif" width="92" alt="pixel character" />
+    <td style="padding: 16px 24px; background: #faf0f5; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+      <div align="center">
+        <img src="./blonde-run.gif" width="92" alt="pixel character" style="display: block; border-radius: 12px;" />
+      </div>
     </td>
   </tr>
 </table>
