@@ -17,38 +17,61 @@
 
 <div align="center">
 
-# about me
+## about me
 
 <img src="./character.gif" width="92" alt="pixel character" />
-LEVEL 01
-ABOUT ME ♡
 
-### 🧱 HTML / CSS platform
+<pre>
+        ╭──────────────╮
+        │   LEVEL 01   │
+        │  ABOUT ME ♡  │
+        ╰──────────────╯
+</pre>
 
-♡ делаю маленькие HTML/CSS-проекты
+<br>
 
-### 🧱 JavaScript platform
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 600px; margin: 0 auto;">
+  <div style="border: 2px solid #555; border-radius: 12px; padding: 12px 20px; background: #f0f0f0; min-width: 150px;">
+    <details>
+      <summary><b>🧱 HTML / CSS platform</b></summary>
+      <p>♡ делаю маленькие HTML/CSS-проекты</p>
+    </details>
+  </div>
+  <div style="border: 2px solid #555; border-radius: 12px; padding: 12px 20px; background: #f0f0f0; min-width: 150px;">
+    <details>
+      <summary><b>🧱 JavaScript platform</b></summary>
+      <p>♡ изучаю основы JavaScript</p>
+    </details>
+  </div>
+  <div style="border: 2px solid #555; border-radius: 12px; padding: 12px 20px; background: #f0f0f0; min-width: 150px;">
+    <details>
+      <summary><b>🧱 React Native platform</b></summary>
+      <p>♡ собираю первое приложение на React Native</p>
+    </details>
+  </div>
+  <div style="border: 2px solid #555; border-radius: 12px; padding: 12px 20px; background: #f0f0f0; min-width: 150px;">
+    <details>
+      <summary><b>🧱 Beginner posts platform</b></summary>
+      <p>♡ пишу посты для начинающих</p>
+    </details>
+  </div>
+  <div style="border: 2px solid #555; border-radius: 12px; padding: 12px 20px; background: #f0f0f0; min-width: 150px;">
+    <details>
+      <summary><b>🧱 Game studies platform</b></summary>
+      <p>♡ разбираюсь в game studies</p>
+    </details>
+  </div>
+</div>
 
-♡ изучаю основы JavaScript
+<br>
 
-### 🧱 React Native platform
-
-♡ собираю первое приложение на React Native
-
-### 🧱 Beginner posts platform
-
-♡ пишу посты для начинающих
-
-### 🧱 Game studies platform
-
-♡ разбираюсь в game studies
-
----
-↑ jump &nbsp;&nbsp; ← run &nbsp;&nbsp; collect skills &nbsp;&nbsp; run → 
----
+<pre>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      ↑ jump     ← run      collect skills     run → 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 
 </div>
----
 
 <div align="center">
 
