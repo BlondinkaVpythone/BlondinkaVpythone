@@ -19,7 +19,6 @@
 
 ## about me
 
-<img src="./blonde-run.gif" width="92" alt="pixel character" />
 
 ♡ делаю маленькие HTML/CSS-проекты  
 ♡ изучаю основы JavaScript  
