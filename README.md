@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=fc83b3&height=155&section=header&text=Блондинка%20в%20питоне🐍&fontSize=34&fontColor=ffffff&fontAlignY=32&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=2800&pause=1000&color=F28DB2&center=true&vCenter=true&width=700&height=40&lines=learning+to+code+step+by+step;building+tiny+web+projects;sharing+beginner-friendly+coding+posts;game+studies+notes;IT+girl+memes;pink+pink+pink" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=2800&pause=1000&color=F28DB2&center=true&vCenter=true&width=700&height=40&lines=learning+to+code+step+by+step;building+tiny+web+projects;sharing+beginner-friendly+coding+posts;game+studies+notes;IT+girl+memes;pink+pink+pink" style="display: block; margin-top: -20px;" />
 
 <br>
 
@@ -27,7 +27,7 @@
         💗 изучаю основы Python и JavaScript<br>
         💗 собираю первое приложение на React Native<br>
         💗 пишу посты для начинающих в тгк<br>
-        💗 разбираюсь в game studies
+        💗 разбираюсь в game studies и вам советую
       </div>
     </td>
     <td style="padding: 16px 24px; background: #faf0f5; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
