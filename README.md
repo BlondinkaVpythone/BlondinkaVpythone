@@ -19,6 +19,9 @@
 
 <div align="center">
 
+```html
+<div align="center">
+
 ## about me
 
 <table>
@@ -29,15 +32,81 @@
 
 <img src="./character.gif" width="92" alt="pixel character" />
 
+<br>
+
+<pre>
+        ╭──────────────╮
+        │   LEVEL 01   │
+        │  ABOUT ME ♡  │
+        ╰──────────────╯
+</pre>
+
 <table>
 <tr>
-<td align="left" width="560">
+<td align="center" width="300">
+
+<details>
+<summary>🧱 HTML / CSS platform</summary>
+
+<br>
 
 ♡ делаю маленькие HTML/CSS-проекты
+
+</details>
+
+</td>
+<td align="center" width="300">
+
+<details>
+<summary>🧱 JavaScript platform</summary>
+
+<br>
+
 ♡ изучаю основы JavaScript
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+
+<details>
+<summary>🧱 React Native platform</summary>
+
+<br>
+
 ♡ собираю первое приложение на React Native
+
+</details>
+
+</td>
+<td align="center" width="300">
+
+<details>
+<summary>🧱 Beginner posts platform</summary>
+
+<br>
+
 ♡ пишу посты для начинающих
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+<details>
+<summary>🧱 Game studies platform</summary>
+
+<br>
+
 ♡ разбираюсь в game studies
+
+</details>
 
 </td>
 </tr>
@@ -45,11 +114,18 @@
 
 <br>
 
+<pre>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      ↑ jump     ← run      collect skills     run → 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
+
 </td>
 </tr>
 </table>
 
 </div>
+```
 
 ---
 
