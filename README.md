@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header&text=blondinka%20v%20pitone&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header&text=блондинка%20в%20питоне🐍&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-# блондинка в питоне 🐍🩷
-
-### учусь программировать через маленькие красивые проекты
+### дневник разработчицы
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2800&pause=800&color=F28DB2&center=true&vCenter=true&width=520&lines=tiny+web+projects;beginner+frontend+practice;game+studies+notes;pretty+interfaces+and+ctrl+%2B+s" />
 
