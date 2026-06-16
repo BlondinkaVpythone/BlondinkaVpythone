@@ -20,47 +20,60 @@
 <div align="center">
 
 ## about me
+<div align="center">
+
+## about me
 
 <table>
 <tr>
-<td width="720" align="center">
+<td align="center" width="720">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=FC83B3&center=true&vCenter=true&width=720&height=35&lines=LEVEL+01:+BEGINNER+FRONTEND;NEW+QUESTS+UNLOCKED;LOADING+PINK+PROJECTS..." />
+<br>
+
+<img src="./assets/character.gif" width="92" alt="pixel character" />
+
+<br>
+
+<pre>
+        🪙                 🪙                 🪙
+   ┌───────────┐                       ┌───────────┐
+   │  HTML/CSS │                       │ JavaScript│
+   └───────────┘                       └───────────┘
+
+
+              ┌─────────────────────────────┐
+              │  React Native / Expo app     │
+              └─────────────────────────────┘
+
+
+   ┌───────────────┐              ┌────────────────┐
+   │ beginner posts │              │  game studies  │
+   └───────────────┘              └────────────────┘
+</pre>
+
+<br>
+
+<table>
+<tr>
+<td align="left" width="560">
+
+♡ делаю маленькие HTML/CSS-проекты
+♡ изучаю основы JavaScript
+♡ собираю первое приложение на React Native
+♡ пишу посты для начинающих
+♡ разбираюсь в game studies
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="720" align="left">
+<br>
 
-### 🎮 player card
-
-```text
-name   : блондинка в питоне 🐍🩷
-level  : beginner
-class  : frontend learner
-world  : tiny web projects
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="720" align="left">
-
-### active quests
-
-| quest                                       | status      |
-| ------------------------------------------- | ----------- |
-| ♡ делаю маленькие HTML/CSS-проекты          | in progress |
-| ♡ изучаю основы JavaScript                  | learning    |
-| ♡ собираю первое приложение на React Native | building    |
-| ♡ пишу посты для начинающих                 | posting     |
-| ♡ разбираюсь в game studies                 | exploring   |
+<pre>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      level 01: learning by making tiny things
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 
 </td>
 </tr>
