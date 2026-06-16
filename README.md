@@ -119,61 +119,6 @@
 
 <div align="center">
 
-## learning map
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 01
-
-**HTML**
-
-страница, структура, элементы
-
-</td>
-<td align="center" width="20%">
-
-### 02
-
-**CSS**
-
-цвета, отступы, композиция
-
-</td>
-<td align="center" width="20%">
-
-### 03
-
-**JavaScript**
-
-логика, формы, результат
-
-</td>
-<td align="center" width="20%">
-
-### 04
-
-**React Native**
-
-экраны, компоненты, стили
-
-</td>
-<td align="center" width="20%">
-
-### 05
-
-**GitHub**
-
-проекты, README, портфолио
-
-</td>
-</tr>
-</table>
-
----
 
 ## plant tracker progress
 
