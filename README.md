@@ -13,43 +13,40 @@
 
 </div>
 
----
-
-<table>
+---<table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
-## обо мне
+<h2>обо мне</h2>
 
-Я начинаю разбираться в программировании и делаю маленькие проекты, чтобы учиться на практике.
+<p>
+начинаю разбираться во frontend и учусь через маленькие проекты.
+</p>
 
-Мне нравится соединять код, визуальный стиль и понятные объяснения для таких же начинающих.
+<p>
+делаю простые страницы, интерактивные штуки и полезные посты для тех, кто тоже начинает с нуля.
+</p>
 
-Сейчас я изучаю:
-
-* HTML и CSS
-* JavaScript basics
-* React Native / Expo
-* GitHub и оформление проектов
-* game studies и культуру видеоигр
+<p>
+интересуюсь визуальным вебом, game studies и играми как частью культуры.
+</p>
 
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
-## currently
+<h2>сейчас</h2>
 
-```text
-making tiny web projects
-learning frontend basics
-building my first app
-documenting progress
-studying games as culture
-```
+<pre>
+♡ делаю маленькие HTML/CSS-проекты
+♡ изучаю JavaScript basics
+♡ собираю первое приложение на React Native
+♡ пишу посты для начинающих
+♡ разбираюсь в game studies
+</pre>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <div align="center">
