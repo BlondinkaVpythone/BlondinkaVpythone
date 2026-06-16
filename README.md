@@ -6,12 +6,14 @@
 
 <br>
 
-![HTML](https://img.shields.io/badge/HTML-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-f8a5c2?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e7?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-ffb6c1?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-f8a5c2?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e7?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 </div>
+
+---
 
 <div align="center">
 
@@ -28,7 +30,7 @@
 <tr>
 <td width="720" align="left">
 
-```text
+<pre>
 ┌──────────────────────── LEVEL 01: ABOUT ME ────────────────────────┐
 │ player: блондинка в питоне 🐍🩷                                     │
 │ class: beginner frontend girl                                      │
@@ -40,6 +42,17 @@
 │ ♡ пишу посты для начинающих                                        │
 │ ♡ разбираюсь в game studies                                        │
 └─────────────────────────────────────────────────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
 
 ## мои проекты
 
@@ -247,14 +260,14 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 Я веду Telegram-канал, где делаю полезные подборки для начинающих.
 
 Пишу про первые шаги в программировании, простые проекты, игровые термины и game studies.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### темы
 
