@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="./assets/character.gif" width="92" alt="pixel character" />
+<img src="./character.gif" width="92" alt="pixel character" />
 
 <table>
 <tr>
