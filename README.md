@@ -24,9 +24,9 @@
     <td style="padding: 16px 24px; background: #faf0f5; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
       <div align="left" style="font-size: 15px; line-height: 1.8;">
         💗 делаю маленькие HTML/CSS-проекты<br>
-        💗 изучаю основы JavaScript<br>
+        💗 изучаю основы Python и JavaScript<br>
         💗 собираю первое приложение на React Native<br>
-        💗 пишу посты для начинающих<br>
+        💗 пишу посты для начинающих в тгк<br>
         💗 разбираюсь в game studies
       </div>
     </td>
