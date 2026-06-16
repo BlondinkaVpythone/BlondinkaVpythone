@@ -19,16 +19,22 @@
 
 ## about me
 
-
-♡ делаю маленькие HTML/CSS-проекты  
-♡ изучаю основы JavaScript  
-♡ собираю первое приложение на React Native  
-♡ пишу посты для начинающих  
-♡ разбираюсь в game studies  
+<table>
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <img src="./blonde-run.gif" width="92" alt="pixel character" />
+    </td>
+    <td align="right">
+      ♡ делаю маленькие HTML/CSS-проекты<br>
+      ♡ изучаю основы JavaScript<br>
+      ♡ собираю первое приложение на React Native<br>
+      ♡ пишу посты для начинающих<br>
+      ♡ разбираюсь в game studies
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<div align="center">
 
 ## мои проекты
 
