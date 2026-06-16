@@ -17,10 +17,6 @@
 
 ## about me
 
-<div align="center">
-
-## about me
-
 <table>
 <tr>
 <td width="720" align="center">
