@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header&text=блондинка%20в%20питоне🐍&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=блондинка%20в%20питоне&fontSize=34&fontColor=ffffff&fontAlignY=34&animation=fadeIn" />
 
-### дневник разработчицы
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2800&pause=800&color=F28DB2&center=true&vCenter=true&width=520&lines=tiny+web+projects;beginner+frontend+practice;game+studies+notes;pretty+interfaces+and+ctrl+%2B+s" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=2800&pause=1000&color=F28DB2&center=true&vCenter=true&width=600&lines=learning+to+code+step+by+step;building+tiny+web+projects;sharing+beginner-friendly+coding+posts;exploring+game+studies" />
 
 <br><br>
 
