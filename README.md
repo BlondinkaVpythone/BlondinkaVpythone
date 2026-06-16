@@ -20,9 +20,6 @@
 <div align="center">
 
 ## about me
-<div align="center">
-
-## about me
 
 <table>
 <tr>
@@ -31,27 +28,6 @@
 <br>
 
 <img src="./assets/character.gif" width="92" alt="pixel character" />
-
-<br>
-
-<pre>
-        🪙                 🪙                 🪙
-   ┌───────────┐                       ┌───────────┐
-   │  HTML/CSS │                       │ JavaScript│
-   └───────────┘                       └───────────┘
-
-
-              ┌─────────────────────────────┐
-              │  React Native / Expo app     │
-              └─────────────────────────────┘
-
-
-   ┌───────────────┐              ┌────────────────┐
-   │ beginner posts │              │  game studies  │
-   └───────────────┘              └────────────────┘
-</pre>
-
-<br>
 
 <table>
 <tr>
@@ -68,12 +44,6 @@
 </table>
 
 <br>
-
-<pre>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      level 01: learning by making tiny things
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</pre>
 
 </td>
 </tr>
