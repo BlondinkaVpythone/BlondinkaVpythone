@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fc83b3&height=170&section=header&text=Блондинка%20в%20питоне🐍&fontSize=34&fontColor=ffffff&fontAlignY=34&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fc83b3&height=155&section=header&text=Блондинка%20в%20питоне🐍&fontSize=34&fontColor=ffffff&fontAlignY=32&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=2800&pause=1000&color=F28DB2&center=true&vCenter=true&width=600&lines=learning+to+code+step+by+step;building+tiny+web+projects;sharing+beginner-friendly+coding+posts;game+studies+notes;ITgirl+memes;pinkpinkpink" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=2800&pause=1000&color=F28DB2&center=true&vCenter=true&width=700&height=40&lines=learning+to+code+step+by+step;building+tiny+web+projects;sharing+beginner-friendly+coding+posts;game+studies+notes;IT+girl+memes;pink+pink+pink" />
 
-<br><br>
+<br>
 
-![HTML](https://img.shields.io/badge/HTML-ffb6c1?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-f8a5c2?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e7?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-fff0f5?style=for-the-badge\&logo=expo\&logoColor=black)
-![Learning](https://img.shields.io/badge/status-learning-ffc0cb?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-f8a5c2?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e7?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
