@@ -17,27 +17,33 @@
 
 ## about me
 
+<div align="center">
+
+## about me
+
 <table>
 <tr>
-<td align="left" width="620">
+<td width="720" align="center">
 
-<br>
-
-♡ делаю маленькие HTML/CSS-проекты  
-♡ изучаю основы JavaScript  
-♡ собираю первое приложение на React Native  
-♡ пишу посты для начинающих  
-♡ разбираюсь в game studies  
-
-<br>
+<img src="./assets/blonde-run.gif" width="120" alt="running character" />
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="720" align="left">
 
-</div>
-
-<div align="center">
+```text
+┌──────────────────────── LEVEL 01: ABOUT ME ────────────────────────┐
+│ player: блондинка в питоне 🐍🩷                                     │
+│ class: beginner frontend girl                                      │
+│ vibe: pink • games • tiny projects                                 │
+├────────────────────────── active quests ───────────────────────────┤
+│ ♡ делаю маленькие HTML/CSS-проекты                                 │
+│ ♡ изучаю основы JavaScript                                         │
+│ ♡ собираю первое приложение на React Native                        │
+│ ♡ пишу посты для начинающих                                        │
+│ ♡ разбираюсь в game studies                                        │
+└─────────────────────────────────────────────────────────────────────┘
 
 ## мои проекты
 
